@@ -35,8 +35,7 @@ Api : /api/products/{id} (methode get)
 Api : /api/products/{id} (methode put)
 Payload attendu :
 
- {
-   
+{
     "code": "Produit updated ....",
     "name": "myProduct",
     "description": "the description full text3",
@@ -73,6 +72,7 @@ Payload attendu :
 -Connecter un user :
 api :  /api/token
 Payload attendu :
+
 {
 
     "username": "admin",
